@@ -56,7 +56,7 @@
     "semantic-release": "17.2.2",
     "standard": "^15.0.0",
     "ts-jest": "25.5.1",
-    "typescript": "^3.9.7",
+    "typescript": "^3.9.10",
     "yaml-lint": "^1.2.4"
   },
   "husky": {
